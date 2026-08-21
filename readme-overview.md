@@ -115,4 +115,32 @@ The fact that blockchain transactions are securely and immutably recorded makes 
 
 On the other hand, smart contracts – Blockchain’s self-executing agreements – make it possible to operate without intermediaries by ensuring that transactions and conditions are executed as scheduled, giving users more control and reducing the risk of manipulations.
 
-## Blockchain: Smart Contracts / Token / Coin
+## Blockchain: Smart Contracts & Token & Coin
+
+### Coins
+Coins refer to digital assets that operate on their blockchain and serve primarily as a medium of exchange, a store of value, or a unit of account. They are often used for transactions, investment, and as a means of raising capital through initial coin offerings (ICOs) or token sales.
+
+### Tokens
+
+Crypto Tokens are digital assets created and managed on existing blockchain platforms, such as Ethereum, Binance Smart Chain, or Solana. Unlike coins, which operate on their blockchains, tokens are built on top of an existing blockchain and can represent a wide range of assets, utilities, or rights. They are typically created using smart contracts, which are self-executing contracts with the terms written directly into code.
+
+<!-- <i>Note: In this project we will build our token. So details about token features is explained in [readme file](readme.md). </i> -->
+
+### Smart Contracts
+
+A Smart Contract is a computer program that directly and automatically controls the transfer of digital assets between the parties under certain conditions. A smart contract works in the same way as a traditional contract while also automatically enforcing the contract. 
+
+Smart contracts are programs that execute exactly as they are set up(coded, programmed) by their creators. Just like a traditional contract is enforceable by law, smart contracts are enforceable by code. 
+
+Our smart contract shared in [contract file](code/contract.sol).
+
+<hr>
+
+### Project Overview
+
+Project divided 3 section and 1 readme file.
+
+- In the [readme file](readme.md) there will be explanation of the choices that i for my token and the reasons why i made these choices.
+- In the [contract file](code/contract.sol) smart contract codes submitted.
+- In the [readme file](deployment/readme.md) there will be explanation of how i deployed (smart contract adress, network etc.) the token. 
+- In the [readme file](documentation/readme.md) there will be explanation of how it works and what is needed to use this token.
