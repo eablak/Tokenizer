@@ -23,11 +23,3 @@ Initial supply and decimal values are preferential, i chose simple and common va
 - **Transferable**: Yes
 
 To keep the token simple i make this decides.
-
-
-## Tools
-
-- **Wallet**: [Metamask]((https://metamask.io/))
-- **Implementation / Security**: [OpenZeppelin](https://wizard.openzeppelin.com/)
-- **Development and Deployment**: [Remix](https://remix.live/)
-- **Network**: [Sepolia Testnet](https://etherscan.io/)

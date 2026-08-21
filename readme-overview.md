@@ -104,7 +104,7 @@ Web3 and Blockchain isn't same thing but there is very close relationship betwee
 
 <p align="center">
   <img 
-    src="pics/image05.png" width="60%" style="border-radius: 12px;">
+    src="pics/image05.png" width="50%" style="border-radius: 12px;">
 </p>
 
 Thus, the infrastructure necessary for Web 3 to operate transparently and securely is provided by the Blockchain, with Web 3 applications being able to take advantage of the reliability and immutability offered by the blockchain.  
