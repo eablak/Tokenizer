@@ -1,7 +1,7 @@
 
 ## Deployment Tools
 
-- ### Wallet: [Metamask]((https://metamask.io/))
+- ### Wallet: [Metamask](https://metamask.io/)
 
 First create your wallet on Metamask.
 
@@ -110,4 +110,4 @@ My contract adress is 0xa490123b929bEe60343DC3b7bDCcF979706277E2.
 </p>
 
 
-For details explained in [document file](documentation/readme.md).
+For details explained in [document file](../documentation/readme.md).
